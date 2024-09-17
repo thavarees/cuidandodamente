@@ -26,5 +26,8 @@ Quer ajudar a melhorar este projeto? Sinta-se à vontade para contribuir!
 3. **Faça suas alterações** e commit.
 4. **Envie um pull request**.
 
+### Agradecimentos:
+Agradeço à Alura e ao Google pela oportunidade de participar da imersão e desenvolver este projeto.
+
 **Vamos juntos cuidar da nossa saúde mental!** <br> 
 <a href="https://cuidandodamente.vercel.app/"> Acesse aqui!
