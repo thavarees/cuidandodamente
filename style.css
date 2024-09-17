@@ -2,10 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet');
 /* Estiliza o corpo da página */
 body {
-    font-family: "Roboto Mono", monospace; /* Define a fonte padrão */
-    font-optical-sizing: auto;
-    font-weight: 700;
-  font-style: normal;
+    font-family: "Helvetica", sans-serif; /* Define a fonte padrão */
     background-color: #405d72; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
