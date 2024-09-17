@@ -1,9 +1,12 @@
 /* Importa a fonte Chakra Petch do Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap' rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap' rel="stylesheet');
 
 /* Estiliza o corpo da página */
 body {
-    font-family: "Helvetica", sans-serif; /* Define a fonte padrão */
+    font-family: "Roboto Mono", monospace; /* Define a fonte padrão */
+    font-optical-sizing: auto;
+    font-weight: 700;
+  font-style: normal;
     background-color: #405d72; /* Cor de fundo da página */
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
